@@ -1,2 +1,3 @@
 # git-rebase-check
-this is second commit on master
+this is first commit on feature
+
