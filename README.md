@@ -1,3 +1,3 @@
 # git-rebase-check
-this is commit 2 on feature
+this is commit 3 on feature
 
