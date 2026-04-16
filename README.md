@@ -1,2 +1,2 @@
 # git-rebase-check
-this is first commit on master
+this is second commit on master
